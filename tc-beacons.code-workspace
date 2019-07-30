@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "name": "capture-the-flag-beacons",
+      "path": "./capture-the-flag-beacons"
+    },
+    {
+      "name": "hunt-beacons",
+      "path": "./hunt-beacons"
+    },
+    {
+      "name": "capture-the-flag-catcher",
+      "path": "./capture-the-flag-catcher"
+    },
+  ],
+  "settings": {
+    "cortex-debug.openocdPath": "${command:particle.getDebuggerOpenocdPath}"
+  }
+}

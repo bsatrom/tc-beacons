@@ -4,5 +4,8 @@
     "cortex-debug.openocdPath": "${command:particle.getDebuggerOpenocdPath}",
     "files.associations": {
         "*.ino": "cpp"
-    }
+    },
+    "particle.targetDevice": "tc-beacon-06",
+    "particle.firmwareVersion": "1.3.0-rc.1",
+    "particle.targetPlatform": "argon"
 }
